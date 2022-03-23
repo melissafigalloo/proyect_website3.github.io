@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## ReadMe.md
 
-You can use the [editor on GitHub](https://github.com/melissafigalloo/proyect_website3.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My proyect website is for ValePlus - Smart Tag Tecnology. The website offers information of an universal NFC tag that would work with all standart smarptphones on the market and they can create a public and private online profile for their pets.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Content
 
-### Markdown
+The proyect has a current and unique branch called "gh-pages". The branch contains the test of the repository and all the proyect files.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Demo
 
-```markdown
-Syntax highlighted code block
+If you want to see the demo of this proyect deployed, you can visit the following [documentation](https://melissafigalloo.github.io/proyect_website3.github.io/)
 
-# Header 1
-## Header 2
-### Header 3
+### How to Clone
 
-- Bulleted
-- List
+These instructions show you how to clone your repository using Git from the terminal.
 
-1. Numbered
-2. List
+1- From the repository, click + in the global sidebar and select Clone this repository under Get to work.
+2- Copy the clone command (either the SSH format or the HTTPS).
+If you are using the SSH protocol, ensure your public key is in Bitbucket and loaded on the local system to which you are cloning.
+3- From a terminal window, change to the local directory where you want to clone your repository.
+4- Paste the command you copied from Bitbucket, for example:
 
-**Bold** and _Italic_ and `Code` text
+Clone over HTTPS
+$ git clone https://github.com/melissafigalloo/proyect_website3.github.io.git
 
-[Link](url) and ![Image](src)
-```
+Clone over SSH
+$ git clone ssh://git@github.com:melissafigalloo/proyect_website3.github.io.git
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Installation
 
-### Jekyll Themes
+To install and run this proyect just type and execute
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/melissafigalloo/proyect_website3.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+npm install
 
-### Support or Contact
+### Overview
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![bone7](https://user-images.githubusercontent.com/99562653/159606201-5a852f66-9fd0-4a93-b6d0-05a607a9ab90.jpeg)
+
+
