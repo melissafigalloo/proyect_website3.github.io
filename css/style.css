@@ -465,10 +465,6 @@ a.join_bt:focus {
 }
 
 
-
-
-
-
 .logo_main {
     padding: 25px 0 0;
 }
@@ -493,9 +489,6 @@ a.join_bt:focus {
     background-size: auto 100%;
     width: 100%;
 }
-
-
-
 
 
 .section {
@@ -618,7 +611,6 @@ a.navbar-brand {
 }
 
 
-
 .search-box {
     position: absolute;
     float: right;
@@ -707,10 +699,6 @@ a.navbar-brand {
 }
 
 
-
-
-
-
 button#sidebarCollapse {
     background: transparent;
     float: right;
@@ -721,12 +709,6 @@ button#sidebarCollapse {
 .btn-info.focus, .btn-info:focus {
     box-shadow: none;
 }
-
-
-
-
-
-
 
 
 .home-slider {
@@ -976,8 +958,11 @@ button#sidebarCollapse {
     transition: ease all 0.5s;
 }
 
+
+
 .about_section {
     background: #fff;
+
 }
 
 .feature_box:hover,
@@ -1214,7 +1199,9 @@ figure.effect-service:hover {
 	padding: 70px 0px 120px;
 }
 
-.gallery-box ul {}
+.gallery-box ul {
+	
+}
 
 .gallery-box ul li {
 	position: relative;
@@ -1650,7 +1637,6 @@ p.count-text {
   }
 
 
-
 .blog-box {
 	padding: 70px 0px;
 	background-color: #f2f3f5;
@@ -1971,12 +1957,12 @@ p {
 }
 
 #client_slider .carousel-indicators li.active {
-	background: ##d4c854;
+	background: #d4c854;
 }
 
 .layout_padding {
-	padding-top: 90px;
-	padding-bottom: 90px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .heading_main h2 {
@@ -2049,6 +2035,7 @@ p.section_count {
 .full {
 	float: left;
 	width: 100%;
+
 }
 
 .heading_main {
@@ -2600,10 +2587,6 @@ ul.bottom_menu li {
       left: 0;
     }
 
-
-
-
-
     
     #sidebar .sidebar-header {
       padding: 20px;
@@ -2635,9 +2618,6 @@ ul.bottom_menu li {
     }
     
 
-
-
-
     .menu_section {
       float: left;
       width: 100%;
@@ -2661,9 +2641,6 @@ ul.bottom_menu li {
       color: #fff;
       background: #6d7fcc;
     }
-
-
-
 
 
     
@@ -2714,9 +2691,6 @@ ul.bottom_menu li {
       color: #fff !important;
     }
   
-
-
-
     
     #content {
       padding: 0;
@@ -2730,11 +2704,6 @@ ul.bottom_menu li {
     #content.active {
       width: 100%;
     }
-
-
-
-
-
 
     
 .heading_main h2 strong.small {
